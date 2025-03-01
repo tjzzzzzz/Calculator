@@ -1,6 +1,6 @@
 # Java Calculator
 
-A simple calculator application created for a Java programming school project.
+A simple calculator application created for a school project.
 
 ## Features
 
@@ -20,10 +20,3 @@ A simple calculator application created for a Java programming school project.
 - Custom UI components for improved aesthetics
 - Uses BigDecimal for accurate calculations
 - Maven build system
-
-## Running the Application
-
-```
-mvn clean package
-java -jar target/Calculator-1.0-SNAPSHOT-jar-with-dependencies.jar
-``` 
