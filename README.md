@@ -19,6 +19,5 @@ A simple calculator application created for a school project.
 - Built with Java Swing
 - Custom UI components for improved aesthetics
 - Uses BigDecimal for accurate calculations
-- Maven build system
 
 ![image](https://github.com/user-attachments/assets/1acad445-1562-4001-baf7-a75828bffa02)
